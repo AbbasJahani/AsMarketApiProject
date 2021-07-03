@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vfmos4VyqD246xFSF/lM+I/o0iFBJKD8oEX3EbjnWFJW68XpFrbLgHB8Nd/wbl27iRnc25tFzw85jWYaILLSlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohammad\\Desktop\\New folder (3)\\ZarinPal\\ZarinPal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammad\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mohammad\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Mohammad\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

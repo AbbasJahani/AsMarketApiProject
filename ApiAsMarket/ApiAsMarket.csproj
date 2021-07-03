@@ -1,0 +1,53 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20210609100537_Init.cs" />
+    <Compile Remove="Migrations\20210609100537_Init.Designer.cs" />
+    <Compile Remove="Migrations\20210610174655_Init.cs" />
+    <Compile Remove="Migrations\20210610174655_Init.Designer.cs" />
+    <Compile Remove="Migrations\20210610174845_Init.cs" />
+    <Compile Remove="Migrations\20210610174845_Init.Designer.cs" />
+    <Compile Remove="Migrations\20210610193752_Init.cs" />
+    <Compile Remove="Migrations\20210610193752_Init.Designer.cs" />
+    <Compile Remove="Migrations\20210610210946_Init.cs" />
+    <Compile Remove="Migrations\20210610210946_Init.Designer.cs" />
+    <Compile Remove="Migrations\20210611105849_Init.cs" />
+    <Compile Remove="Migrations\20210611105849_Init.Designer.cs" />
+    <Compile Remove="Migrations\20210612201936_Init.cs" />
+    <Compile Remove="Migrations\20210612201936_Init.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.7" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="1.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.6" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.7.1" />
+    <PackageReference Include="ZarinPal-SDK" Version="0.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ViewModels\UpdateViewModel\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ZarinPal\ZarinPal.csproj" />
+  </ItemGroup>
+
+</Project>

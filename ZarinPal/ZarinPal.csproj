@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net45</TargetFrameworks>
+    <Description>ZarinPal Payment .NET API</Description>
+    <Authors>Alireza Tarazani</Authors>
+    <Copyright>© 2019 Alireza Tarazani</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/ImanX/zarinpal-dotNet</RepositoryUrl>
+    <PackageReleaseNotes>Port to .NET Standard.</PackageReleaseNotes>
+    <PackageTags>zarinpal, payment, api</PackageTags>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Version>0.0.8-alpha1</Version>
+    <AssemblyVersion>0.0.8</AssemblyVersion>
+    <FileVersion>0.0.0.8</FileVersion>
+  </PropertyGroup>
+
+  <!-- Conditionally obtain references for the .NET Framework 4.5 target -->
+  <ItemGroup Condition=" '$(TargetFramework)' == 'net45' ">
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+  </ItemGroup>
+
+</Project>

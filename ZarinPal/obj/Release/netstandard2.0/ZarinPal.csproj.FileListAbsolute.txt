@@ -1,0 +1,44 @@
+F:\_CSharpProject\ApiAsMarket\ZarinPal\bin\Release\netstandard2.0\ZarinPal.deps.json
+F:\_CSharpProject\ApiAsMarket\ZarinPal\bin\Release\netstandard2.0\ZarinPal.dll
+F:\_CSharpProject\ApiAsMarket\ZarinPal\bin\Release\netstandard2.0\ZarinPal.pdb
+F:\_CSharpProject\ApiAsMarket\ZarinPal\obj\Release\netstandard2.0\ZarinPal.csprojAssemblyReference.cache
+F:\_CSharpProject\ApiAsMarket\ZarinPal\obj\Release\netstandard2.0\ZarinPal.AssemblyInfoInputs.cache
+F:\_CSharpProject\ApiAsMarket\ZarinPal\obj\Release\netstandard2.0\ZarinPal.AssemblyInfo.cs
+F:\_CSharpProject\ApiAsMarket\ZarinPal\obj\Release\netstandard2.0\ZarinPal.csproj.CoreCompileInputs.cache
+F:\_CSharpProject\ApiAsMarket\ZarinPal\obj\Release\netstandard2.0\ZarinPal.dll
+F:\_CSharpProject\ApiAsMarket\ZarinPal\obj\Release\netstandard2.0\ZarinPal.pdb
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\bin\Release\netstandard2.0\ZarinPal.deps.json
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\bin\Release\netstandard2.0\ZarinPal.dll
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\bin\Release\netstandard2.0\ZarinPal.pdb
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\obj\Release\netstandard2.0\ZarinPal.csprojAssemblyReference.cache
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\obj\Release\netstandard2.0\ZarinPal.AssemblyInfoInputs.cache
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\obj\Release\netstandard2.0\ZarinPal.AssemblyInfo.cs
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\obj\Release\netstandard2.0\ZarinPal.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\obj\Release\netstandard2.0\ZarinPal.dll
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\obj\Release\netstandard2.0\ZarinPal.pdb
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\bin\Release\netstandard2.0\ZarinPal.deps.json
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\bin\Release\netstandard2.0\ZarinPal.dll
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\bin\Release\netstandard2.0\ZarinPal.pdb
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\obj\Release\netstandard2.0\ZarinPal.csprojAssemblyReference.cache
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\obj\Release\netstandard2.0\ZarinPal.AssemblyInfoInputs.cache
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\obj\Release\netstandard2.0\ZarinPal.AssemblyInfo.cs
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\obj\Release\netstandard2.0\ZarinPal.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\obj\Release\netstandard2.0\ZarinPal.dll
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\obj\Release\netstandard2.0\ZarinPal.pdb
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\bin\Release\netstandard2.0\ZarinPal.deps.json
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\bin\Release\netstandard2.0\ZarinPal.dll
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\bin\Release\netstandard2.0\ZarinPal.pdb
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Release\netstandard2.0\ZarinPal.csprojAssemblyReference.cache
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Release\netstandard2.0\ZarinPal.AssemblyInfoInputs.cache
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Release\netstandard2.0\ZarinPal.AssemblyInfo.cs
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Release\netstandard2.0\ZarinPal.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Release\netstandard2.0\ZarinPal.dll
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Release\netstandard2.0\ZarinPal.pdb
+E:\Work\AsMarket\Stock\ZarinPal\bin\Release\netstandard2.0\ZarinPal.deps.json
+E:\Work\AsMarket\Stock\ZarinPal\bin\Release\netstandard2.0\ZarinPal.dll
+E:\Work\AsMarket\Stock\ZarinPal\bin\Release\netstandard2.0\ZarinPal.pdb
+E:\Work\AsMarket\Stock\ZarinPal\obj\Release\netstandard2.0\ZarinPal.csprojAssemblyReference.cache
+E:\Work\AsMarket\Stock\ZarinPal\obj\Release\netstandard2.0\ZarinPal.AssemblyInfoInputs.cache
+E:\Work\AsMarket\Stock\ZarinPal\obj\Release\netstandard2.0\ZarinPal.AssemblyInfo.cs
+E:\Work\AsMarket\Stock\ZarinPal\obj\Release\netstandard2.0\ZarinPal.dll
+E:\Work\AsMarket\Stock\ZarinPal\obj\Release\netstandard2.0\ZarinPal.pdb

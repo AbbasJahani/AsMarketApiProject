@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ZarinPal</id>
+    <version>0.0.8-alpha1</version>
+    <authors>Alireza Tarazani</authors>
+    <owners>Alireza Tarazani</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>ZarinPal Payment .NET API</description>
+    <releaseNotes>Port to .NET Standard.</releaseNotes>
+    <copyright>© 2019 Alireza Tarazani</copyright>
+    <tags>zarinpal, payment, api</tags>
+    <repository url="https://github.com/ImanX/zarinpal-dotNet" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="Newtonsoft.Json" version="12.0.2" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Newtonsoft.Json" version="12.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Core" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="System.Net.Http" targetFramework=".NETFramework4.5" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="E:\Work\AsMarket\Stock\ZarinPal\bin\Release\net45\ZarinPal.dll" target="lib\net45\ZarinPal.dll" />
+    <file src="E:\Work\AsMarket\Stock\ZarinPal\bin\Release\netstandard2.0\ZarinPal.dll" target="lib\netstandard2.0\ZarinPal.dll" />
+  </files>
+</package>

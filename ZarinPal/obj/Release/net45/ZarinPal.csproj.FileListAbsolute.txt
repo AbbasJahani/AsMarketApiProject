@@ -1,0 +1,48 @@
+F:\_CSharpProject\ApiAsMarket\ZarinPal\bin\Release\net45\ZarinPal.dll
+F:\_CSharpProject\ApiAsMarket\ZarinPal\bin\Release\net45\ZarinPal.pdb
+F:\_CSharpProject\ApiAsMarket\ZarinPal\bin\Release\net45\Newtonsoft.Json.dll
+F:\_CSharpProject\ApiAsMarket\ZarinPal\obj\Release\net45\ZarinPal.AssemblyInfoInputs.cache
+F:\_CSharpProject\ApiAsMarket\ZarinPal\obj\Release\net45\ZarinPal.AssemblyInfo.cs
+F:\_CSharpProject\ApiAsMarket\ZarinPal\obj\Release\net45\ZarinPal.csproj.CoreCompileInputs.cache
+F:\_CSharpProject\ApiAsMarket\ZarinPal\obj\Release\net45\ZarinPal.csproj.CopyComplete
+F:\_CSharpProject\ApiAsMarket\ZarinPal\obj\Release\net45\ZarinPal.dll
+F:\_CSharpProject\ApiAsMarket\ZarinPal\obj\Release\net45\ZarinPal.pdb
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\bin\Release\net45\ZarinPal.dll
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\bin\Release\net45\ZarinPal.pdb
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\bin\Release\net45\Newtonsoft.Json.dll
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\obj\Release\net45\ZarinPal.AssemblyInfoInputs.cache
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\obj\Release\net45\ZarinPal.AssemblyInfo.cs
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\obj\Release\net45\ZarinPal.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\obj\Release\net45\ZarinPal.csproj.CopyComplete
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\obj\Release\net45\ZarinPal.dll
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\obj\Release\net45\ZarinPal.pdb
+C:\Users\Mohammad\Desktop\New folder\ZarinPal\obj\Release\net45\ZarinPal.csprojAssemblyReference.cache
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\bin\Release\net45\ZarinPal.dll
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\bin\Release\net45\ZarinPal.pdb
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\bin\Release\net45\Newtonsoft.Json.dll
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\obj\Release\net45\ZarinPal.csprojAssemblyReference.cache
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\obj\Release\net45\ZarinPal.AssemblyInfoInputs.cache
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\obj\Release\net45\ZarinPal.AssemblyInfo.cs
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\obj\Release\net45\ZarinPal.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\obj\Release\net45\ZarinPal.csproj.CopyComplete
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\obj\Release\net45\ZarinPal.dll
+C:\Users\Mohammad\Desktop\New folder (3)\New folder\ZarinPal\obj\Release\net45\ZarinPal.pdb
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\bin\Release\net45\ZarinPal.dll
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\bin\Release\net45\ZarinPal.pdb
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\bin\Release\net45\Newtonsoft.Json.dll
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Release\net45\ZarinPal.csprojAssemblyReference.cache
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Release\net45\ZarinPal.AssemblyInfoInputs.cache
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Release\net45\ZarinPal.AssemblyInfo.cs
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Release\net45\ZarinPal.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Release\net45\ZarinPal.csproj.CopyComplete
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Release\net45\ZarinPal.dll
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Release\net45\ZarinPal.pdb
+E:\Work\AsMarket\Stock\ZarinPal\bin\Release\net45\ZarinPal.dll
+E:\Work\AsMarket\Stock\ZarinPal\bin\Release\net45\ZarinPal.pdb
+E:\Work\AsMarket\Stock\ZarinPal\bin\Release\net45\Newtonsoft.Json.dll
+E:\Work\AsMarket\Stock\ZarinPal\obj\Release\net45\ZarinPal.csprojAssemblyReference.cache
+E:\Work\AsMarket\Stock\ZarinPal\obj\Release\net45\ZarinPal.AssemblyInfoInputs.cache
+E:\Work\AsMarket\Stock\ZarinPal\obj\Release\net45\ZarinPal.AssemblyInfo.cs
+E:\Work\AsMarket\Stock\ZarinPal\obj\Release\net45\ZarinPal.csproj.CopyComplete
+E:\Work\AsMarket\Stock\ZarinPal\obj\Release\net45\ZarinPal.dll
+E:\Work\AsMarket\Stock\ZarinPal\obj\Release\net45\ZarinPal.pdb

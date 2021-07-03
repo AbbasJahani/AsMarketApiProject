@@ -1,0 +1,17 @@
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\bin\Debug\netstandard2.0\ZarinPal.deps.json
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\bin\Debug\netstandard2.0\ZarinPal.dll
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\bin\Debug\netstandard2.0\ZarinPal.pdb
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Debug\netstandard2.0\ZarinPal.csprojAssemblyReference.cache
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Debug\netstandard2.0\ZarinPal.AssemblyInfoInputs.cache
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Debug\netstandard2.0\ZarinPal.AssemblyInfo.cs
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Debug\netstandard2.0\ZarinPal.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Debug\netstandard2.0\ZarinPal.dll
+C:\Users\Mohammad\Desktop\New folder (3)\ZarinPal\obj\Debug\netstandard2.0\ZarinPal.pdb
+E:\Work\AsMarket\Stock\ZarinPal\bin\Debug\netstandard2.0\ZarinPal.deps.json
+E:\Work\AsMarket\Stock\ZarinPal\bin\Debug\netstandard2.0\ZarinPal.dll
+E:\Work\AsMarket\Stock\ZarinPal\bin\Debug\netstandard2.0\ZarinPal.pdb
+E:\Work\AsMarket\Stock\ZarinPal\obj\Debug\netstandard2.0\ZarinPal.AssemblyInfoInputs.cache
+E:\Work\AsMarket\Stock\ZarinPal\obj\Debug\netstandard2.0\ZarinPal.AssemblyInfo.cs
+E:\Work\AsMarket\Stock\ZarinPal\obj\Debug\netstandard2.0\ZarinPal.dll
+E:\Work\AsMarket\Stock\ZarinPal\obj\Debug\netstandard2.0\ZarinPal.pdb
+E:\Work\AsMarket\Stock\ZarinPal\obj\Debug\netstandard2.0\ZarinPal.csprojAssemblyReference.cache
